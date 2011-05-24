@@ -1,5 +1,3 @@
 script: "rake test"
 notifications:
-  recipients:
-    - 'ma.schwed@googlemail.com'
-    - 'schwed@avarteq.de'
+  recipients: 'schwed@avarteq.de'
