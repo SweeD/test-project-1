@@ -6,6 +6,7 @@ task :test do
     putc '.'
     $stdout.flush
   end
+  raise 'Simulate error'
   exit 0
 end
 
